@@ -1,5 +1,7 @@
 # CVE Request: Savant Web Server 3.1 — Denial of Service via HTTP POST Buffer Overflow
 
+![rce](rce.png)
+
 ## Summary
 
 Buffer overflow in Savant Web Server 3.1 allows remote unauthenticated attackers to
